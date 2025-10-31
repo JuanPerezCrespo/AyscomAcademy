@@ -10,3 +10,15 @@
 2025-10-31 10:44:32,496 - my_app - INFO - Application finished.
 2025-10-31 10:46:27,811 - my_app - INFO - Application started.
 2025-10-31 10:46:27,828 - my_app - INFO - Application finished.
+2025-10-31 10:58:19,779 - my_app - INFO - Application started.
+2025-10-31 10:58:19,779 - my_app - INFO - CSV file '../files/sales.csv' correctly read
+2025-10-31 10:58:19,779 - my_app - INFO - Application finished.
+2025-10-31 10:58:31,450 - my_app - INFO - Application started.
+2025-10-31 10:58:31,450 - my_app - ERROR - Error: The file '../files/saleqw.csv' was not found.
+2025-10-31 10:58:31,450 - my_app - INFO - CSV file '../files/saleqw.csv' correctly read
+2025-10-31 10:59:41,348 - my_app - INFO - Application started.
+2025-10-31 10:59:41,348 - my_app - ERROR - Error: The file '../files/saleqw.csv' was not found.
+2025-10-31 10:59:41,348 - my_app - INFO - Application finished.
+2025-10-31 11:00:04,879 - my_app - INFO - Application started.
+2025-10-31 11:00:04,879 - my_app - INFO - CSV file '../files/sales.csv' correctly read
+2025-10-31 11:00:04,880 - my_app - INFO - Application finished.
