@@ -22,3 +22,23 @@
 2025-10-31 11:00:04,879 - my_app - INFO - Application started.
 2025-10-31 11:00:04,879 - my_app - INFO - CSV file '../files/sales.csv' correctly read
 2025-10-31 11:00:04,880 - my_app - INFO - Application finished.
+2025-10-31 11:12:54,165 - my_app - INFO - CSV file '../files/sales.csv' correctly read
+2025-10-31 11:12:54,166 - my_app - INFO - Application started.
+2025-10-31 11:12:54,166 - my_app - INFO - CSV file '../files/sales.csv' correctly read
+2025-10-31 11:13:58,755 - my_app - INFO - CSV file '../files/sales.csv' correctly read
+2025-10-31 11:13:58,755 - my_app - INFO - Application started.
+2025-10-31 11:13:58,755 - my_app - INFO - CSV file '../files/sales.csv' correctly read
+2025-10-31 11:15:56,293 - my_app - INFO - CSV file '../files/sales.csv' correctly read
+2025-10-31 11:15:56,293 - my_app - INFO - Application started.
+2025-10-31 11:15:56,293 - my_app - INFO - CSV file '../files/sales.csv' correctly read
+2025-10-31 11:16:06,550 - my_app - INFO - CSV file '../files/sales.csv' correctly read
+2025-10-31 11:16:06,550 - my_app - INFO - Application started.
+2025-10-31 11:16:06,551 - my_app - INFO - CSV file '../files/sales.csv' correctly read
+2025-10-31 11:16:46,521 - my_app - INFO - CSV file '../files/sales.csv' correctly read
+2025-10-31 11:16:46,521 - my_app - INFO - Application started.
+2025-10-31 11:16:46,521 - my_app - INFO - CSV file '../files/sales.csv' correctly read
+2025-10-31 11:16:46,541 - my_app - INFO - Application finished.
+2025-10-31 11:18:09,439 - my_app - INFO - CSV file '../files/sales.csv' correctly read
+2025-10-31 11:18:09,439 - my_app - INFO - Application started.
+2025-10-31 11:18:09,439 - my_app - INFO - CSV file '../files/sales.csv' correctly read
+2025-10-31 11:18:09,447 - my_app - INFO - Application finished.
